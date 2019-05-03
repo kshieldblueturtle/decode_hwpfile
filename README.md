@@ -1,1 +1,1 @@
-# decrypt_hwpfile
+한글파일의 bindata파일 압축을 해제하는 파이썬 스크립트
